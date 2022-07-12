@@ -1,4 +1,3 @@
 # Repositorios_pages
 [
-    { "name": "adam", "email": "anamaria.otoyat@gmail.com" },
-   
+    { "name": "AO1980", "email": "anamaria.otoyat@gmail.com" },
